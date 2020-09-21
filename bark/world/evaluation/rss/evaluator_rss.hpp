@@ -87,7 +87,7 @@ class EvaluatorRss : public BaseEvaluator {
   // nearby agent, value is a pair of directional safety response:
   //
   // 1. longitudinal safety response
-  // 2. latitudinal safety response
+  // 2. lateral safety response
   //
   // It is true if at least one of the all possible RSS situations in the
   // direction between the specified and the nearby agent is safe, false
